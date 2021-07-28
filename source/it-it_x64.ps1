@@ -1,4 +1,4 @@
-$download_url = "https://computeralmeglio.altervista.org/wp-content/uploads/Microsoft/Office/LanguagePacks/en-us_x86.exe"
+$download_url = "https://computeralmeglio.altervista.org/wp-content/uploads/Microsoft/Office/LanguagePacks/it-it_x86.exe"
 $local_path = "OfficeSetup.exe"
 $WebClient = New-Object System.Net.WebClient
 $WebClient.DownloadFile($download_url, $local_path)
