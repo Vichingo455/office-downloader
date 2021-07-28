@@ -10,3 +10,11 @@ A: Yes, because it downloads some files from a mirror (hosted by me). Don't worr
 Q: Is the project open source?
 
 A: Yes, of course
+
+Q: How to download the main executable?
+
+A: Go to releases and download the exe in the Assets sectiom
+
+Q: Can I contribute to this project?
+
+A: Yes, of course. Fork tge repo and when you are ready to contribute open a pull request
