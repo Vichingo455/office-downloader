@@ -13,7 +13,7 @@ A: Yes, of course
 
 Q: How to download the main executable?
 
-A: Go to releases and download the exe in the Assets sectiom
+A: Go to releases and download the exe in the Assets section
 
 Q: Can I contribute to this project?
 
