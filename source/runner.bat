@@ -6,7 +6,7 @@ echo (c) vichingo455
 echo.
 set /p lang=Language (example: en-us): 
 echo OK, %lang%
-set /p arch=System architecture (x86 or x64)
+set /p arch=System architecture (x86 or x64): 
 echo OK, %arch%
 echo.
 echo You choose to download Office for the language %lang% and for the architecture %arch%
