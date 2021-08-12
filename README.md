@@ -22,3 +22,7 @@ A: Yes, of course. Fork tge repo and when you are ready to contribute open a pul
 Q: Which version of Windows did Office Downloader support?
 
 A: Windows 8.1, Windows 10 and Windows 11, all x86 or x64
+
+Q: My Antivirus detected this as a malware, what can I do?
+
+A: Disable your antivirus and download the file again
