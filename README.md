@@ -1,6 +1,6 @@
 # Office Downloader
 An utility to download Office on your PC.
-Did you need to search on Internet how to download Office? No, this utility is light and powerfull, because you need inly to specify the language and the architecture
+Did you need to search on Internet how to download Office? No, this utility is light and powerfull, because you need only to specify the language and the architecture
 
 ## FAQs
 Q: Did I need Internet connection?
