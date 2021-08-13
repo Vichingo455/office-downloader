@@ -17,7 +17,7 @@ A: Go to releases and download the exe in the Assets section
 
 Q: Can I contribute to this project?
 
-A: Yes, of course. Fork tge repo and when you are ready to contribute open a pull request
+A: Yes, of course. Fork the repo and when you are ready to contribute open a pull request
 
 Q: Which version of Windows did Office Downloader support?
 
