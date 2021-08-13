@@ -31,6 +31,8 @@ A: Disable your antivirus and download the file again
 
 | Feature | Browser | Office Downloader |
 |---------|---------|-------------------|
-| RAM use | High    | Low               |
-| DW speed| Slow    | Fast              |
-| CPU use | High    | Minimal           |
+| RAM use | High    | Low*              |
+| DW speed| Slow    | Fast*             |
+| CPU use | High    | Minimal*          |
+
+*based on my data
